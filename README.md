@@ -22,4 +22,4 @@ Unity 开发的方块世界生存闯关游戏
 3. 打开主场景，点击运行即可体验
 
 ## 项目演示
-（在这里粘贴你的B站演示视频链接）
+https://pan.baidu.com/s/10vvsjSks8w2_qT2N7c7HdQ?pwd=pyy4
